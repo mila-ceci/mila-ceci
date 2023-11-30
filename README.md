@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 <!--
-**mila-ceci/mila-ceci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I work as a QA engineer in results-oriented and attention
+to detail. Analysis, identification, reporting of software
+defects, and ability to work as a team.
+My goal is to get ahead in a challenging and innovative
+QA, a good working environment, goal and exercise my
+full potential to ensure software quality.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
