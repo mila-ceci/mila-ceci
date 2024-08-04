@@ -15,46 +15,80 @@ Milagro Ceciliano</a></h1>
 
 - 🌱 I’m currently learning Cibersecurity
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about ***
+- 💬 Ask me about [LinkedIn](https://www.linkedin.com/in/milagro-ceciliano-ortega-6298021a6)
 
 - 📫 How to reach me **4mceciliano@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<!--
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
 
-</p>
 
-### Blogs posts
+## Tools
+  - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
+  - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
+  - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
+  - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
+  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
+  - [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
+  - [Postman](https://www.postman.com/) - Testing tool for REST API
+  - [TestLink](https://bitnami.com/stack/testlink) - [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - Xray We-based open-source test management tool
+  - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
+  - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
+  - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
+  - [Jenkis]
+  - [BrowserStack] - [Kobiton]
 
-<!-- BLOG-POST-LIST:START -->
+  ------------------------
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
+  ### Tech Skills 💻:
+  - SQL
 
----
+| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
+|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
+| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
+| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
+| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
+| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
+| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
+|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
+|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
+|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
+|                               |         !>           |                   |                                  |                       |         |
+
+    
+  - C# .Net
+  - Java basics
+  - Python for test automation
+  - PHP basics
+  - GIT
+  - HTML - CSS - Javascript - Jquery - AJAX - Boostrap    
+  - SCRUM Fundamentals Certicate
+  - [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
+  - Creating test cases
+  - Software testing Functional - No Functional
+  - Reporting bugs      
+  - DevTools
+  - Finding unique CSS Selectors and xPaths
+  - Creating diagrams and decision tables    
+  - Rest API testing
+  - Software Development life cycle
+  - Software Testing life cycle
+  - Automation with selenium & python 
+  - Ability to set up virtual machines (e.g. Linux)
+
+## Courses
+  - [Software-testing-desde-cero-a-experto](https://www.udemy.com/course/software-testing-desde-cero-a-expertomasterclass-todo-en-1/learn/lecture/28913746?start=0#overview/) - ude.my/UC-DLFGE9QS
+  - [Master: Selenium con Python Test Qa Automation (ESPAÑOL)
+](https://www.udemy.com/course/master-selenium-webdriver-python-test-qa-automation/learn/lecture/28091310?start=2#overview) - ude.my/UC-WRFX398B  
+  - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
+  - [SQL](https://www.sololearn.com)
+  - [Git dla Testerów](https://jaktestowac.pl/git/)
+
+### Examples 🔬:
+**1. ORANGE HRM**
+* [Test plan](https://drive.google.com/file/d/1H9k9Zm6oGUrGk73RnjawyMdfN-aQyirq/view?usp=drive_link)
+* [Test cases](https://docs.google.com/spreadsheets/d/1Kj1hwDv1he3_lAY51AvTwavqfzK_AjHz/edit?usp=drive_link&ouid=105675257410293325093&rtpof=true&sd=true)
+* [Bug report](https://drive.google.com/file/d/1BMuQzT1iHwXIsF3_a5Ra_9EecVQj5max/view?usp=drive_link)
+* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
+
+
