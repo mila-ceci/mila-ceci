@@ -85,10 +85,13 @@ Milagro Ceciliano</a></h1>
   - [Git dla Testerów](https://jaktestowac.pl/git/)
 
 ### Examples 🔬:
-**1. ORANGE HRM**
+**1. ORANGE HRM** functional testing
 * [Test plan](https://drive.google.com/file/d/1H9k9Zm6oGUrGk73RnjawyMdfN-aQyirq/view?usp=drive_link)
 * [Test cases](https://docs.google.com/spreadsheets/d/1Kj1hwDv1he3_lAY51AvTwavqfzK_AjHz/edit?usp=drive_link&ouid=105675257410293325093&rtpof=true&sd=true)
 * [Bug report](https://drive.google.com/file/d/1BMuQzT1iHwXIsF3_a5Ra_9EecVQj5max/view?usp=drive_link)
 * [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
 
+**2. API Users** 
+* [Test plan](https://drive.google.com/file/d/1eCnd8bAUUa-QeFvdC7PcdjG3FIei254j/view?usp=drive_link)
+* [Postman collection](https://drive.google.com/file/d/12ZGEpviLWjthAMQ4XEBB8QzIlAWA6ecZ/view?usp=drive_link)
 
