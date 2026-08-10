@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Milagro Ceciliano</a></h1>
-<h3 align="center">A passionate QA Enginneer from Costa Rica &#127470;&#127475</h3>
+<h3 align="center">A passionate QA Automation Enginneer from Costa Rica &#127470;&#127475</h3>
 
 
 <a target="_blank" align="center">
@@ -9,7 +9,7 @@ Milagro Ceciliano</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Testing Software</a>
 
-- 🌱 I’m currently Manual Tester - QA Enginner
+- 🌱 I’m currently SDET Enginner - QA Enginner
   
 - 🤝 I’m available for freelancing.
 
@@ -63,7 +63,7 @@ Milagro Ceciliano</a></h1>
   - GIT
   - HTML - CSS - Javascript - Jquery - AJAX - Boostrap    
   - SCRUM Fundamentals Certicate
-  - [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
+  - [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) Certified
   - Creating test cases
   - Software testing Functional - No Functional
   - Reporting bugs      
